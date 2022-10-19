@@ -5,12 +5,12 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m an engineering student
-- 🌱 I’m currently exploring the open source world
-- 👯 I’m currently a part of GWOC [GirlScript Winter Of Code]
+- 🔭 I’m a product engineer working in a startup - **KAMPD**.
+- 🌱 I’m currently exploring the open source world & contribute in different communities.
+- 👯 I’m currently a part of HACKTOBERFEST
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
+- 📫 How to reach me: .
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
